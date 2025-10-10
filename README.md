@@ -55,6 +55,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/haiderwaheed/haiderwaheed/output/snake.svg" alt="Snake animation" />
-
 ###
